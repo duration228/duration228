@@ -29,11 +29,23 @@
       - segera sidang
     - sampe bab4
       - cek lagi dari awal
-      - mind mapping kak praba
+      - mind mapping kak praba --> mind mappingnin punyaku
       - kata kunci
-      - tugas teoretical mapping
+      - tugas teoretical mapping * (1.)
+      - panduan html -->
       - penilaian skripsi
       - instrument
+    - list produk
+      - koala
+      - bootstrap (1,2,3...)
+      - gokil ensiklopedia, ukbm, e ukbm, link
+      - asset
+      - asset -chart-disclaimer stop pengerjaan tengah jalan
+      - yang diluar (phpmvc)
+      - 
+      - etc
+        -
+          
     - finishing programnya blm selese semua
     - calibrasi
     - test
