@@ -42,7 +42,29 @@
       - asset
       - asset -chart-disclaimer stop pengerjaan tengah jalan
       - yang diluar (phpmvc)
-      - 
+      - grunge (+list folder)
+        -1_b_admin_file
+        -2_picturedansound
+        -3_instrument
+        -4_theorical_mapping
+        -5_db_file_lama
+        -6_lampiran
+        -6_lampiran orang
+        -7_skripsi
+        -8_pengerjaan dari awal
+        -a_user_3d
+        -ascii
+        -das_accordion-image-gallery
+        -das_Showcase-baru
+        -das_tutor-master
+        -E
+        -F
+        -GRUNGE
+        -n00b
+        -sample mm
+        -UJI2
+
+        
       - etc
         -
           
