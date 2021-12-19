@@ -40,8 +40,8 @@
       - bootstrap (1,2,3...)
       - gokil ensiklopedia, ukbm, e ukbm, link
       - asset
-      - asset -chart-disclaimer stop pengerjaan tengah jalan
-      - yang diluar (phpmvc)
+      - asset -chart-disclaimer (stop pengerjaan tengah jalan)
+      - yang diluar (phpmvc) <-sebagaiasdlkj jasdk-asdsdwrqwerlkasd
       - grunge (+list folder)
         -1_b_admin_file
         -2_picturedansound
