@@ -22,24 +22,28 @@
     - flowchart
     - flowwork
     - list priority
-    - date
+    - date          (penargetan bimbingan 3 tahap lagi)'
+      - sampe bab 4
+      - ambil data uji validasi ke pak lanang, dan uji ahli media
+      - bimbingan lagi
+      - segera sidang
+    - sampe bab4
+      - cek lagi dari awal
+      - mind mapping kak praba
+      - kata kunci
+      - tugas teoretical mapping
+      - penilaian skripsi
+      - instrument
+    - finishing programnya blm selese semua
     - calibrasi
     - test
-
-
-
-
-
-
-- 💞️ collaborate on ...
-- 📫 How to reach me ...
-- 👋 Hi, I’m @duration228
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+    -
 
 <!---
 duration228/duration228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+long term
+  - bahasa, kuliah, koalarar3konten.
+  
